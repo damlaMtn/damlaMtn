@@ -7,8 +7,6 @@ I am a Unity Developer passionate about creating engaging and immersive games an
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/damla-metin-orak-039567104)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:damla91@gmail.com) 
 
-<p align="center"><a href="https://app.daily.dev/dmlmtn"><img src="https://api.daily.dev/devcards/72084bd25495442184b3c3bb5bcef09f.png?r=vy8" width="350" alt="Damla Metin Orak's Dev Card"/></a></p>
-
 ***
 
 <div style="display: flex; justify-content: space-between;">
