@@ -4,7 +4,7 @@ I am a Unity Developer passionate about creating engaging and immersive games an
 * 👨‍💻 Visit my [portfolio](https://damlamtn.github.io/portfolio/) for more information about me 😊
 * 🌐 Connect with me on LinkedIn<br/>
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/damla-metin-orak-039567104)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/damlametinorak/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:damla91@gmail.com) 
 
 ***
