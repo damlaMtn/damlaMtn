@@ -12,7 +12,7 @@ I am a Unity Developer passionate about creating engaging and immersive games an
 
 Currently working with:
 <a href="https://unity.com/"><img height="40" width="40" src="https://cdn.simpleicons.org/unity/white" /></a>
-<a href="https://learn.microsoft.com/en-us/dotnet/csharp/"><img height="40" width="40" src="https://cdn.simpleicons.org/csharp" /></a>
+<a href="https://learn.microsoft.com/en-us/dotnet/csharp/"><img height="40" width="40" src="https://skillicons.dev/icons?i=cs" /></a>
 <a href="https://visualstudio.microsoft.com/"><img height="40" width="40" src="https://cdn.simpleicons.org/visualstudio" /></a>
 <a href="https://code.visualstudio.com/"><img height="40" width="40" src="https://cdn.simpleicons.org/visualstudiocode" /></a>
 <a href="https://dotnet.microsoft.com/en-us/"><img height="40" width="40" src="https://cdn.simpleicons.org/dotnet/white" /></a>
