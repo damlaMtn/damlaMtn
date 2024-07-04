@@ -1,6 +1,6 @@
 # Hi there 👋 I am Damla
 
-I am a Unity Developer passionate about creating engaging and immersive games and applications that leverage the power of Unity and C#. I am always eager to learn new technologies and tools that can enhance my performance and creativity.
+I am an experienced software developer with a diverse background, specializing in C# programming. My career includes extensive experience as a Unity developer, where I honed my skills in game development, as well as various roles in software development. With a strong foundation in computer engineering, I bring a blend of technical proficiency and creative problem-solving to every project. My commitment to continuous learning and adaptability ensures I stay at the forefront of industry advancements.
 * 👨‍💻 Visit my [portfolio](https://damlamtn.github.io/portfolio/) for more information about me 😊
 * 🌐 Connect with me
 
