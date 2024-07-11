@@ -11,13 +11,13 @@ I am an experienced software developer with a diverse background, specializing i
 
 
 Currently working with:
-<a href="https://unity.com/"><img height="40" width="40" src="https://cdn.simpleicons.org/unity/white" /></a>
 <a href="https://learn.microsoft.com/en-us/dotnet/csharp/"><img height="40" width="40" src="https://skillicons.dev/icons?i=cs" /></a>
-<a href="https://visualstudio.microsoft.com/"><img height="40" width="40" src="https://cdn.simpleicons.org/visualstudio" /></a>
-<a href="https://code.visualstudio.com/"><img height="40" width="40" src="https://cdn.simpleicons.org/visualstudiocode" /></a>
-<a href="https://dotnet.microsoft.com/en-us/"><img height="40" width="40" src="https://cdn.simpleicons.org/dotnet/white" /></a>
+<a href="https://visualstudio.microsoft.com/"><img height="40" width="40" src="https://skillicons.dev/icons?i=visualstudio" /></a>
+<a href="https://code.visualstudio.com/"><img height="40" width="40" src="https://skillicons.dev/icons?i=vscode" /></a>
+<a href="https://dotnet.microsoft.com/en-us/"><img height="40" width="40" src="https://skillicons.dev/icons?i=dotnet" /></a>
 
 Previously worked with:
+<a href="https://unity.com/"><img height="40" width="40" src="https://cdn.simpleicons.org/unity/white" /></a>
 <img height="40" width="40" src="https://cdn.simpleicons.org/c" />
 <a href="https://www.jetbrains.com/rider/"><img height="40" width="40" src="https://cdn.simpleicons.org/rider/white" /></a>
 <a href="https://www.arduino.cc/"><img height="40" width="40" src="https://cdn.simpleicons.org/arduino" /></a>
@@ -27,11 +27,11 @@ Previously worked with:
 <a href="https://www.microsoft.com/en-us/sql-server/"><img height="40" width="40" src="https://cdn.simpleicons.org/microsoftsqlserver" /></a>
 
 Learning / Want to learn:
+<a href="https://aws.amazon.com/"><img height="40" width="40" src="https://skillicons.dev/icons?i=aws" /></a>
+<a href="https://azure.microsoft.com/en-us"><img height="40" width="40" src="https://skillicons.dev/icons?i=azure" /></a>
 <img height="40" width="40" src="https://cdn.simpleicons.org/cplusplus" />
 <a href="https://www.lua.org/"><img height="40" width="40" src="https://cdn.simpleicons.org/lua" /></a>
 <a href="https://www.python.org/"><img height="40" width="40" src="https://cdn.simpleicons.org/python" /></a>
-<a href="https://www.unrealengine.com/en-US"><img height="40" width="40" src="https://cdn.simpleicons.org/unrealengine/white" /></a>
-<a href="https://www.blender.org/"><img height="40" width="40" src="https://cdn.simpleicons.org/blender" /></a>
 
 ***
 
