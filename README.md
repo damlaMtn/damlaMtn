@@ -17,21 +17,21 @@ Currently working with:
 <a href="https://dotnet.microsoft.com/en-us/"><img height="40" width="40" src="https://skillicons.dev/icons?i=dotnet" /></a>
 
 Previously worked with:
-<a href="https://unity.com/"><img height="40" width="40" src="https://cdn.simpleicons.org/unity/white" /></a>
-<img height="40" width="40" src="https://cdn.simpleicons.org/c" />
-<a href="https://www.jetbrains.com/rider/"><img height="40" width="40" src="https://cdn.simpleicons.org/rider/white" /></a>
-<a href="https://www.arduino.cc/"><img height="40" width="40" src="https://cdn.simpleicons.org/arduino" /></a>
-<a href="https://www.sourcetreeapp.com/"><img height="40" width="40" src="https://cdn.simpleicons.org/sourcetree" /></a>
-<a href="https://about.gitlab.com/"><img height="40" width="40" src="https://cdn.simpleicons.org/gitlab" /></a>
+<a href="https://unity.com/"><img height="40" width="40" src="https://skillicons.dev/icons?i=unity" /></a>
+<img height="40" width="40" src="https://skillicons.dev/icons?i=c" />
+<a href="https://www.jetbrains.com/rider/"><img height="40" width="40" src="https://skillicons.dev/icons?i=rider" /></a>
+<a href="https://www.arduino.cc/"><img height="40" width="40" src="https://skillicons.dev/icons?i=arduino" /></a>
+<a href="https://www.sourcetreeapp.com/"><img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sourcetree/sourcetree-original-wordmark.svg" /></a>
+<a href="https://about.gitlab.com/"><img height="40" width="40" src="https://skillicons.dev/icons?i=gitlab" /></a>
 <a href="https://circleci.com/"><img height="40" width="40" src="https://cdn.simpleicons.org/circleci/white" /></a>
-<a href="https://www.microsoft.com/en-us/sql-server/"><img height="40" width="40" src="https://cdn.simpleicons.org/microsoftsqlserver" /></a>
+<a href="https://www.microsoft.com/en-us/sql-server/"><img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" /></a>
 
 Learning / Want to learn:
 <a href="https://aws.amazon.com/"><img height="40" width="40" src="https://skillicons.dev/icons?i=aws" /></a>
 <a href="https://azure.microsoft.com/en-us"><img height="40" width="40" src="https://skillicons.dev/icons?i=azure" /></a>
-<img height="40" width="40" src="https://cdn.simpleicons.org/cplusplus" />
-<a href="https://www.lua.org/"><img height="40" width="40" src="https://cdn.simpleicons.org/lua" /></a>
-<a href="https://www.python.org/"><img height="40" width="40" src="https://cdn.simpleicons.org/python" /></a>
+<img height="40" width="40" src="https://skillicons.dev/icons?i=cpp" />
+<a href="https://www.lua.org/"><img height="40" width="40" src="https://skillicons.dev/icons?i=lua" /></a>
+<a href="https://www.python.org/"><img height="40" width="40" src="https://skillicons.dev/icons?i=py" /></a>
 
 ***
 
