@@ -26,7 +26,13 @@ Previously worked with:
 <a href="https://circleci.com/"><img height="40" width="40" src="https://cdn.simpleicons.org/circleci/white" /></a>
 <a href="https://www.microsoft.com/en-us/sql-server/"><img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" /></a>
 
-Learning / Want to learn:
+Learning:
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img height="40" width="40" src="https://skillicons.dev/icons?i=js" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img height="40" width="40" src="https://skillicons.dev/icons?i=html" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img height="40" width="40" src="https://skillicons.dev/icons?i=css" /></a>
+<a href="https://react.dev/"><img height="40" width="40" src="https://skillicons.dev/icons?i=react" /></a>
+
+Want to learn:
 <a href="https://aws.amazon.com/"><img height="40" width="40" src="https://skillicons.dev/icons?i=aws" /></a>
 <a href="https://azure.microsoft.com/en-us"><img height="40" width="40" src="https://skillicons.dev/icons?i=azure" /></a>
 <img height="40" width="40" src="https://skillicons.dev/icons?i=cpp" />
@@ -36,8 +42,8 @@ Learning / Want to learn:
 ***
 
 <div style="display: flex; justify-content: space-between;">
-    <img src="https://github-readme-stats.vercel.app/api?username=damlaMtn&show_icons=true&theme=noctis_minimus" alt="Damla's GitHub stats" width="45%">
-    <img src="https://streak-stats.demolab.com/?user=damlaMtn&theme=panda" alt="GitHub Streak" width="45%">
+    <img src="https://github-readme-stats.vercel.app/api?username=damlaMtn&show_icons=true&theme=noctis_minimus" alt="Damla's GitHub stats">
+    <img src="https://streak-stats.demolab.com/?user=damlaMtn&theme=panda" alt="GitHub Streak">
 </div>  
 
 ***
