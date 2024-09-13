@@ -42,9 +42,10 @@ Want to learn:
 ***
 
 <div style="display: flex; justify-content: space-between;">
-    <img src="https://github-readme-stats.vercel.app/api?username=damlaMtn&show_icons=true&theme=noctis_minimus" alt="Damla's GitHub stats">
-    <img src="https://streak-stats.demolab.com/?user=damlaMtn&theme=panda" alt="GitHub Streak">
-</div>  
+    <img width=450 src="https://github-readme-stats.vercel.app/api?username=damlaMtn&show_icons=true&theme=noctis_minimus" alt="Damla's GitHub stats">
+    <img width=480 src="https://streak-stats.demolab.com/?user=damlaMtn&theme=panda" alt="GitHub Streak">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=damlaMtn&show_icons=true&locale=en&layout=compact&theme=noctis_minimus"/>
+</div>
 
 ***
 
