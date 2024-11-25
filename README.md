@@ -27,6 +27,7 @@ Previously worked with:
 <a href="https://www.microsoft.com/en-us/sql-server/"><img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" /></a>
 
 Learning:
+<a href="https://www.python.org/"><img height="40" width="40" src="https://skillicons.dev/icons?i=py" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img height="40" width="40" src="https://skillicons.dev/icons?i=js" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img height="40" width="40" src="https://skillicons.dev/icons?i=html" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img height="40" width="40" src="https://skillicons.dev/icons?i=css" /></a>
@@ -37,7 +38,6 @@ Want to learn:
 <a href="https://azure.microsoft.com/en-us"><img height="40" width="40" src="https://skillicons.dev/icons?i=azure" /></a>
 <img height="40" width="40" src="https://skillicons.dev/icons?i=cpp" />
 <a href="https://www.lua.org/"><img height="40" width="40" src="https://skillicons.dev/icons?i=lua" /></a>
-<a href="https://www.python.org/"><img height="40" width="40" src="https://skillicons.dev/icons?i=py" /></a>
 
 ***
 
