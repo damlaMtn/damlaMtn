@@ -32,6 +32,7 @@ Learning:
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img height="40" width="40" src="https://skillicons.dev/icons?i=html" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img height="40" width="40" src="https://skillicons.dev/icons?i=css" /></a>
 <a href="https://react.dev/"><img height="40" width="40" src="https://skillicons.dev/icons?i=react" /></a>
+<a href="https://nodejs.org/en/"><img height="40" width="40" src="https://skillicons.dev/icons?i=nodejs" /></a>
 
 Want to learn:
 <a href="https://aws.amazon.com/"><img height="40" width="40" src="https://skillicons.dev/icons?i=aws" /></a>
