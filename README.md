@@ -1,6 +1,9 @@
 # Hi there 👋 I am Damla
 
-I am an experienced software developer with a diverse background, specializing in C# programming. My career includes extensive experience as a Unity developer, where I honed my skills in game development, as well as various roles in software development. With a strong foundation in computer engineering, I bring a blend of technical proficiency and creative problem-solving to every project. My commitment to continuous learning and adaptability ensures I stay at the forefront of industry advancements.
+I'm a .NET Developer with a background in software engineering and experience across game development, system support, and application development. I specialize in building clean, scalable backend solutions using C#, ASP.NET Core, Entity Framework, and SQL.
+
+I’m passionate about writing maintainable code, following best practices, and working in agile teams. I'm currently seeking opportunities to grow, contribute, and build meaningful software.
+
 * 👨‍💻 Visit my [portfolio](https://damlamtn.github.io/portfolio/) for more information about me 😊
 * 🌐 Connect with me
 
@@ -18,14 +21,16 @@ Currently working with:
 
 Previously worked with:
 <a href="https://unity.com/"><img height="40" width="40" src="https://skillicons.dev/icons?i=unity" /></a>
-<img height="40" width="40" src="https://skillicons.dev/icons?i=c" />
 <a href="https://www.jetbrains.com/rider/"><img height="40" width="40" src="https://skillicons.dev/icons?i=rider" /></a>
 <a href="https://www.arduino.cc/"><img height="40" width="40" src="https://skillicons.dev/icons?i=arduino" /></a>
 <a href="https://www.sourcetreeapp.com/"><img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sourcetree/sourcetree-original-wordmark.svg" /></a>
 <a href="https://about.gitlab.com/"><img height="40" width="40" src="https://skillicons.dev/icons?i=gitlab" /></a>
 <a href="https://circleci.com/"><img height="40" width="40" src="https://cdn.simpleicons.org/circleci/white" /></a>
 <a href="https://www.microsoft.com/en-us/sql-server/"><img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" /></a>
+<img height="40" width="40" src="https://skillicons.dev/icons?i=c" />
+<img height="40" width="40" src="https://skillicons.dev/icons?i=cpp" />
 
+<!--
 Learning:
 <a href="https://www.python.org/"><img height="40" width="40" src="https://skillicons.dev/icons?i=py" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img height="40" width="40" src="https://skillicons.dev/icons?i=js" /></a>
@@ -38,15 +43,14 @@ Want to learn:
 <a href="https://aws.amazon.com/"><img height="40" width="40" src="https://skillicons.dev/icons?i=aws" /></a>
 <a href="https://azure.microsoft.com/en-us"><img height="40" width="40" src="https://skillicons.dev/icons?i=azure" /></a>
 <img height="40" width="40" src="https://skillicons.dev/icons?i=cpp" />
-<a href="https://www.lua.org/"><img height="40" width="40" src="https://skillicons.dev/icons?i=lua" /></a>
+<a href="https://www.lua.org/"><img height="40" width="40" src="https://skillicons.dev/icons?i=lua" /></a> 
+-->
 
 ***
 
-<div style="display: flex; justify-content: space-between;">
-    <img width=450 src="https://github-readme-stats.vercel.app/api?username=damlaMtn&show_icons=true&theme=noctis_minimus" alt="Damla's GitHub stats">
-    <img width=480 src="https://streak-stats.demolab.com/?user=damlaMtn&theme=panda" alt="GitHub Streak">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=damlaMtn&show_icons=true&locale=en&layout=compact&theme=noctis_minimus"/>
-</div>
+<p align="center">
+    <img width=450 src="https://github-readme-stats.vercel.app/api?username=damlaMtn&show_icons=true&theme=tokyonight" alt="Damla's GitHub stats">
+</p>
 
 ***
 
@@ -60,6 +64,13 @@ Want to learn:
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/damlametinorak/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:damla91@gmail.com) 
+
+<div style="display: flex; justify-content: space-between;">
+    <img width=450 src="https://github-readme-stats.vercel.app/api?username=damlaMtn&show_icons=true&theme=noctis_minimus" alt="Damla's GitHub stats">
+    <img width=480 src="https://streak-stats.demolab.com/?user=damlaMtn&theme=panda" alt="GitHub Streak">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=damlaMtn&show_icons=true&locale=en&layout=compact&theme=noctis_minimus"/>
+</div>
+
 -->
 
 
