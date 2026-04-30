@@ -10,7 +10,7 @@ I’m passionate about writing maintainable code, following best practices, and 
 🔗 [Visit my portfolio](https://damlamtn.github.io/portfolio/)
 
 ### 🌐 Connect with me
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/damlametinorak/)
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/damlametinn/)
 [![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:damla91@gmail.com)
 
 ---
