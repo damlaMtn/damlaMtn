@@ -1,12 +1,14 @@
+<div align="center">
+
 # Hi there 👋 I am Damla
 
-I'm a .NET Developer with a background in software engineering and experience across game development, system support, and application development. I specialize in building clean, scalable backend solutions using C#, ASP.NET Core, Entity Framework, and SQL.
+I'm a .NET Developer with a background that spans embedded systems, game development, and application development. I specialize in building clean, scalable backend solutions using C#, ASP.NET Core, Entity Framework, and SQL. Working across such different domains has shaped how I think about performance, state, and structure, and I bring that perspective to everything I build.
 
-I’m passionate about writing maintainable code, following best practices, and working in agile teams. I'm currently seeking opportunities to grow, contribute, and build meaningful software.
+I'm currently open to new opportunities and looking forward to contributing to a team that cares about good software.
 
 ---
 
-### 👨‍💻 Portfolio
+### 💼 Portfolio
 🔗 [Visit my portfolio](https://damlamtn.github.io/portfolio/)
 
 ### 🌐 Connect with me
@@ -23,6 +25,8 @@ I’m passionate about writing maintainable code, following best practices, and 
   <a href="https://dotnet.microsoft.com/en-us/"><img height="40" src="https://skillicons.dev/icons?i=dotnet" /></a>
 </p>
 
+---
+
 ### 🧠 Previously worked with
 <p>
   <a href="https://unity.com/"><img height="40" src="https://skillicons.dev/icons?i=unity" /></a>
@@ -35,3 +39,9 @@ I’m passionate about writing maintainable code, following best practices, and 
   <img height="40" src="https://skillicons.dev/icons?i=c" />
   <img height="40" src="https://skillicons.dev/icons?i=cpp" />
 </p>
+
+---
+
+  <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level&theme=city-lights&fontFamily=&preferLogin=false">    <img  alt="damlaMtn's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/damlaMtn?cardType=level&theme=city-lights&fontFamily=&preferLogin=false" />  </a>
+
+</div>
