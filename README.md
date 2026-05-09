@@ -35,10 +35,3 @@ I’m passionate about writing maintainable code, following best practices, and 
   <img height="40" src="https://skillicons.dev/icons?i=c" />
   <img height="40" src="https://skillicons.dev/icons?i=cpp" />
 </p>
-
----
-
-### 📊 GitHub Stats
-<p>
-  <img width="450" src="https://github-readme-stats.vercel.app/api?username=damlaMtn&show_icons=true&theme=tokyonight" />
-</p>
