@@ -42,6 +42,6 @@ I'm currently open to new opportunities and looking forward to contributing to a
 
 ---
 
-  <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level&theme=city-lights&fontFamily=&preferLogin=false">    <img  alt="damlaMtn's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/damlaMtn?cardType=level&theme=city-lights&fontFamily=&preferLogin=false" />  </a>
+  <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level&theme=nightowl&fontFamily=Akatab&preferLogin=true">    <img  alt="damlaMtn's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/damlaMtn?cardType=level&theme=nightowl&fontFamily=Akatab&preferLogin=true" />  </a>
 
 </div>
