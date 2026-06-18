@@ -4,8 +4,6 @@
 
 I'm a .NET Developer with a background that spans embedded systems, game development, and application development. I specialize in building clean, scalable backend solutions using C#, ASP.NET Core, Entity Framework, and SQL. Working across such different domains has shaped how I think about performance, state, and structure, and I bring that perspective to everything I build.
 
-I'm currently open to new opportunities and looking forward to contributing to a team that cares about good software.
-
 ---
 
 ### 💼 Portfolio
@@ -17,20 +15,15 @@ I'm currently open to new opportunities and looking forward to contributing to a
 
 ---
 
-### 🚀 Currently working with
+### 🧠 Worked with
 <p>
   <a href="https://learn.microsoft.com/en-us/dotnet/csharp/"><img height="40" src="https://skillicons.dev/icons?i=cs" /></a>
   <a href="https://visualstudio.microsoft.com/"><img height="40" src="https://skillicons.dev/icons?i=visualstudio" /></a>
   <a href="https://code.visualstudio.com/"><img height="40" src="https://skillicons.dev/icons?i=vscode" /></a>
   <a href="https://dotnet.microsoft.com/en-us/"><img height="40" src="https://skillicons.dev/icons?i=dotnet" /></a>
-</p>
-
----
-
-### 🧠 Previously worked with
-<p>
   <a href="https://unity.com/"><img height="40" src="https://skillicons.dev/icons?i=unity" /></a>
   <a href="https://www.jetbrains.com/rider/"><img height="40" src="https://skillicons.dev/icons?i=rider" /></a>
+  
   <a href="https://www.arduino.cc/"><img height="40" src="https://skillicons.dev/icons?i=arduino" /></a>
   <a href="https://www.sourcetreeapp.com/"><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sourcetree/sourcetree-original-wordmark.svg" /></a>
   <a href="https://about.gitlab.com/"><img height="40" src="https://skillicons.dev/icons?i=gitlab" /></a>
